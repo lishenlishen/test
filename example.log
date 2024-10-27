@@ -1,0 +1,21 @@
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 前期准备。
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 查找房源。
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 和卖家沟通时间。
+DEBUG main com.d3.dao.Shili6_9.RealBuyer - 实地查看一下
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 后期跟踪
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 和买家沟通意见。
+DEBUG main com.d3.dao.Shili6_9.IntermediaryImpl - 看房记录: 买家反馈 “一些意见” 
+DEBUG main com.d3.dao.Shili6_9.IntermediaryImpl - 前期准备。
+DEBUG main com.d3.dao.Shili6_9.IntermediaryImpl - 查找房源。
+DEBUG main com.d3.dao.Shili6_9.IntermediaryImpl - 和卖家沟通时间。
+DEBUG main com.d3.dao.Shili6_9.RealBuyer - 实地查看一下
+DEBUG main com.d3.dao.Shili6_9.IntermediaryImpl - 后期跟踪
+DEBUG main com.d3.dao.Shili6_9.IntermediaryImpl - 和买家沟通意见。
+DEBUG main com.d3.dao.Shili6_9.IntermediaryImpl - 看房记录: 买家反馈 “一些意见” 
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 前期准备。
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 查找房源。
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 和卖家沟通时间。
+DEBUG main com.d3.dao.Shili6_9.RealBuyer - 实地查看一下
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 后期跟踪
+DEBUG main class com.d3.dao.Shili6_9.IntermediaryMethodInterceptor - 和买家沟通意见。
+DEBUG main com.d3.dao.Shili6_9.IntermediaryImpl - 看房记录: 买家反馈 “一些意见” 

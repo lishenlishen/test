@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><scores>
+    <student id="1">
+        <name name="name">123</name>
+        <course/>
+        <score name="88">88</score>
+    </student>
+    <student id="3">
+        <name>小明</name>
+        <course>数学</course>
+        <score>90</score>
+    </student>
+    <student id="2">
+        <name>小明</name>
+        <course>数学</course>
+        <score name="88">88</score>
+    </student>
+</scores>

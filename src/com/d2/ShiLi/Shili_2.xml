@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<PhoneInfo>
+    <Brand name = "华为">
+        <Type name = "P90">
+            <Item>
+                <title>标题信息</title>
+                <link>链接</link>
+                <description>描述</description>
+                <pudDate>20XX-XX-XX</pudDate>
+            </Item>
+        </Type>
+    </Brand>
+</PhoneInfo>

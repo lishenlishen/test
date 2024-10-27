@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneInfo>
+    <Brand name="三星2">
+        <Type name="P90"/>
+    <Type name="NoteX"/><Type name="NoteX"/><Type name="NoteX"/><Type name="NoteX"/></Brand>
+    <Brand name="苹果">
+        <Type name="iPhone Z"/>
+        <Type name="iPhone ZL"/>
+    </Brand>
+<Brand name="qq"/></PhoneInfo>
